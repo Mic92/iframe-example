@@ -1,0 +1,13 @@
+{
+  "name": "iframe-example",
+  "version": "0.1.3",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  }
+}
+

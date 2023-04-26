@@ -1,0 +1,2 @@
+# The grafana admin password from bitwarden
+export GRAFANA_AUTH="admin:<password>"
